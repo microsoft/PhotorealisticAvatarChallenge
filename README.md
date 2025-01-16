@@ -1,14 +1,10 @@
 # Project
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+The Photorealistic Avatar challenge testset consists of videos from 10 different people and is divided into two parts:
+- The 1st part is the initial set provided during the start of the challenge. This has videos from 5 persons.
+- The 2nd part is another set of videos similar to the 1st set but provided 1 week before the challenge submissions.
 
-As the maintainer of this project, please make a few updates:
-
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+The initial set of URLs are found in the file InitialSet.txt and the final set of URLs in the file FinalSet.txt
 
 ## Contributing
 
