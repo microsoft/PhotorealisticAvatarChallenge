@@ -1,8 +1,8 @@
 # Project
 
-The Photorealistic Avatar challenge testset consists of videos from 10 different people and is divided into two parts:
-- The 1st part is the initial set provided during the start of the challenge. This has videos from 5 persons.
-- The 2nd part is another set of videos similar to the 1st set but provided 1 week before the challenge submissions.
+The Photorealistic Avatar challenge testset consists of videos from different people and is divided into two parts:
+- The 1st part is the initial set provided during the start of the challenge. This has videos from 5 different persons.
+- The 2nd part is another set of videos from 10 different persons, provided 1 week before the challenge submissions.
 
 The initial set of URLs are found in the file [InitialSet.txt](https://github.com/microsoft/PhotorealisticAvatarChallenge/blob/main/InitialSet.txt) and the final set of URLs in the file FinalSet.txt
 
